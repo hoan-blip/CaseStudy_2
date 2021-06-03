@@ -1,0 +1,6 @@
+1. xóa những thứ không cần thiết
+2. kiểm tra giỏ hàng 
+3. bổ sung các sản phẩm thật ở home
+4. định dạng giá tiền ở giỏ hàng
+5. giá tiền ở checkout
+TAB INE
