@@ -86,6 +86,10 @@
                         <div class="my-cart">
                             <ul>
                                 <li><a href="#"><i class="fa fa-shopping-cart"></i>My Cart</a>
+                                <span>
+                                    Nợ
+                                 </span>
+
                                     <div class="mini-cart-sub">
                                         <div class="cart-bottom">
                                             <a class="view-cart" href="cart.php">view cart</a>

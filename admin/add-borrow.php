@@ -48,12 +48,7 @@
     <div class="workplace">
         <div class="row-fluid">
             <div class="span12">
-                <?php
-                // echo '<pre>';
-                   
-                //     print_r( $Ten_Sachs );
-                // echo '</pre>';
-                ?>
+                
                 <div class="head">
                     <div class="isw-grid"></div>
                     <h1>Thêm</h1>

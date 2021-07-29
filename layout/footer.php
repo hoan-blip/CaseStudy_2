@@ -13,7 +13,7 @@
                                     <li><a href="contact.php">contact us</a></li>
                                    
                                     <li><a>
-                                    <marquee width="100%" behavior="scroll" style="color: white" bgcolor="black">  
+                                    <marquee width="100%" behavior="scroll" >  
                                         Book Shop HQH Giúp Bạn Vươn Tầm Kiến  Thức
                                     </marquee>
                                     <i></i></a>
